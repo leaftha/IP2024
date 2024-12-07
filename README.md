@@ -108,10 +108,12 @@ plt.show()
 ![123](https://github.com/user-attachments/assets/f3d04d5c-f993-4c84-b9eb-6dfeb34f382e)
 
 
-## homework4
 
 ![homewor4-1](https://github.com/user-attachments/assets/af53849b-39f0-48b5-a507-903468dc31e4)
 ![homewor4-2](https://github.com/user-attachments/assets/7bee93c6-295e-43cb-b216-5ad951c05df5)
 ![homewor4-3](https://github.com/user-attachments/assets/91f86f49-1c98-4c1b-8cb4-66d79d9c92e4)
+
+## homework5
+![homewor5JPG](https://github.com/user-attachments/assets/a703fe29-a038-428f-bfdc-074265efd100)
 
 
